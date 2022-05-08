@@ -22,4 +22,7 @@
 
 |书名|作者|版次|详情|下载地址|
 :-:|:-:|:-:|:-:|:-:
+|C Primer Plus|Stephen Prata|6th|[详情](https://book.douban.com/subject/25802313/)|[下载](https://cn1lib.vip/s/C%20primer%20plus)|
+|Introduction to Programming with C++|Liang, Y. Daniel|3rd|[详情](https://book.douban.com/subject/20056055/)|[下载](https://cn1lib.vip/s/?q=Introduction+to+Programming+with+C%2B%2B+liang)|
+|Python Crash Course|Eric Matthes|2nd|[详情](https://book.douban.com/subject/31333701/)|[下载](https://cn1lib.vip/s/?q=Python+Crash+Course%2C+2nd+Edition)|
 |
