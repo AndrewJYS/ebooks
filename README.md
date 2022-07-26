@@ -22,6 +22,12 @@
 
 |书名|作者|版次|详情|下载地址|
 :-:|:-:|:-:|:-:|:-:
+|Unix Network Programming, Volume 1: The Sockets Networking API|W.Richard Stevens / Bill Fenner / Andrew M. Rudoff|3rd|[详情](https://book.douban.com/subject/4859464/)|[下载](https://zh.pk1lib.club/s/?q=Unix+Network+Programming%2C+Volume+1)|
+|TCP/IP网络编程|尹圣雨|1st|[详情](https://book.douban.com/subject/25911735/)|[下载](https://zh.pk1lib.club/s/?q=TCP%2FIP%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B)|
+|The Linux Programming Interface: A Linux and UNIX System Programming Handbook|Michael Kerrisk|1st|[详情](https://book.douban.com/subject/25809330/)|[下载](https://zh.pk1lib.club/s/?q=The+Linux+Programming+Interface%3A+A+Linux+and+UNIX+System+Programming+Handbook)|
+|Advanced Programming in the UNIX Environment|W. Richard Stevens / Stephen A. Rago|3rd|[详情](https://book.douban.com/subject/11937511/)|[下载](https://zh.pk1lib.club/s/Advanced%20Programming%20in%20the%20UNIX%20Environment)|
+|Operating Systems: Three Easy Pieces| Remzi Arpaci-Dusseau / Andrea Arpaci-Dusseau|1st|[详情](https://book.douban.com/subject/19973015/)|[下载](https://zh.pk1lib.club/s/?q=Operating+Systems%3A+Three+Easy+Pieces)|
+|C++ Primer Plus|Stephen Prata|6th|[详情](https://book.douban.com/subject/6971116/)|[下载](https://zh.pk1lib.club/s/?q=C%2B%2B+Primer+Plus)|
 |C Primer Plus|Stephen Prata|6th|[详情](https://book.douban.com/subject/25802313/)|[下载](https://cn1lib.vip/s/C%20primer%20plus)|
 |Introduction to Programming with C++|Liang, Y. Daniel|3rd|[详情](https://book.douban.com/subject/20056055/)|[下载](https://cn1lib.vip/s/?q=Introduction+to+Programming+with+C%2B%2B+liang)|
 |Python Crash Course|Eric Matthes|2nd|[详情](https://book.douban.com/subject/31333701/)|[下载](https://cn1lib.vip/s/?q=Python+Crash+Course%2C+2nd+Edition)|
